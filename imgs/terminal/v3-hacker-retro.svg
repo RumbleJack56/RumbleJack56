@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="891" height="806" viewBox="0 0 891 806" role="img" aria-label="Terminal session: fastfetch, whoami, focus, projects and wins for RumbleJack56">
+<style>text{font-family:'JetBrains Mono','Fira Code','DejaVu Sans Mono','Cascadia Mono',Menlo,monospace;font-size:13px;white-space:pre}@keyframes type{from{clip-path:inset(0 100% 0 0)}to{clip-path:inset(0 0 0 0)}}@keyframes show{from{opacity:0}to{opacity:1}}@keyframes blink{50%{opacity:0}}.cur{animation:blink 1s step-end infinite}</style>
+<rect width="891" height="806" rx="0" fill="#000000"/>
+<text x="20" y="30" style="animation:type 0.63s steps(11) 0.40s both"><tspan fill="#00ff00">❯</tspan> <tspan fill="#00e600">fastfetch</tspan></text>
+<g style="animation:show 0.7s ease-out 1.28s both">
+<text x="28" y="47" xml:space="preserve"><tspan fill="#00ff00">             *@%#+:                :=#%@#             </tspan></text>
+<text x="28" y="64" xml:space="preserve"><tspan fill="#00ff00">             @@@@@@@*#%@@@@@@@@%#*@@@@@@@:            </tspan></text>
+<text x="28" y="81" xml:space="preserve"><tspan fill="#00ff00">             @@@@@@@@@@@@@@@@@@@@@@@@@@@@:            </tspan></text>
+<text x="28" y="98" xml:space="preserve"><tspan fill="#00ff00">            .%@@@@@@@@@@@@@@@@@@@@@@@@@@@.            </tspan></text>
+<text x="28" y="115" xml:space="preserve"><tspan fill="#00ff00">           :@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@-           </tspan></text>
+<text x="28" y="132" xml:space="preserve"><tspan fill="#00ff00">           @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.          </tspan></text>
+<text x="28" y="149" xml:space="preserve"><tspan fill="#00ff00">          :@@@@@@#*%@@@@@@@%%%@@@@@@@@@@@@@=          </tspan></text>
+<text x="28" y="166" xml:space="preserve"><tspan fill="#00ff00">          :@@@@@%:. .:=+**##%%%%%%%#*#%@@@@=          </tspan></text>
+<text x="28" y="183" xml:space="preserve"><tspan fill="#00ff00">           @@@@@*. =+= .........:++:...%@@@:          </tspan></text>
+<text x="28" y="200" xml:space="preserve"><tspan fill="#00ff00">  .........*@@@*:. +++ .........:++- ..%@@#.........  </tspan></text>
+<text x="28" y="217" xml:space="preserve"><tspan fill="#00ff00">............*@@*..........:-.... .. ..+@@#............</tspan></text>
+<text x="28" y="234" xml:space="preserve"><tspan fill="#00ff00">             :#@#=:......::::.......=#@#-            .</tspan></text>
+<text x="28" y="251" xml:space="preserve"><tspan fill="#00ff00">      ====+-.   -+###*++++==++++*###+-.               </tspan></text>
+<text x="28" y="268" xml:space="preserve"><tspan fill="#00ff00">      *###%%*=       -%%%#**#%@@=                     </tspan></text>
+<text x="28" y="285" xml:space="preserve"><tspan fill="#00ff00">      .===: *%#-.   :%%%%#**=+%%%-                    </tspan></text>
+<text x="28" y="302" xml:space="preserve"><tspan fill="#00ff00">             +%%%%%%%%%=%%+-::=%%*                    </tspan></text>
+<text x="28" y="319" xml:space="preserve"><tspan fill="#00ff00">              .-++++*%%:**=.. .%%*                    </tspan></text>
+<text x="28" y="336" xml:space="preserve"><tspan fill="#00ff00">                    =%%:++=...:%%#                    </tspan></text>
+<text x="28" y="353" xml:space="preserve"><tspan fill="#00ff00">                    =@@:=+=-=+.@@*                    </tspan></text>
+<text x="28" y="370" xml:space="preserve"><tspan fill="#00ff00">              .....-%@#.#%+=##.*@@=. ...              </tspan></text>
+<text x="28" y="387" xml:space="preserve"><tspan fill="#00ff00">             .....:--..=+-..:=+..--:......            </tspan></text>
+<text x="28" y="404" xml:space="preserve"><tspan fill="#00ff00">               ........................               </tspan></text>
+<text x="28" y="421" xml:space="preserve"><tspan fill="#00ff00">                         ....                         </tspan></text>
+</g>
+<g style="animation:show 0.6s ease-out 1.78s both">
+<text x="477.2" y="47"><tspan fill="#00ff00" font-weight="bold">rumblejack@github</tspan></text>
+<text x="477.2" y="64" fill="#007a00">─────────────────</text>
+<text x="477.2" y="81" xml:space="preserve"><tspan fill="#00ff00" font-weight="bold">Shell    </tspan><tspan fill="#00e600">zsh</tspan></text>
+<text x="477.2" y="98" xml:space="preserve"><tspan fill="#00ff00" font-weight="bold">Focus    </tspan><tspan fill="#00e600">agentic AI, memory systems, LLM plumbing</tspan></text>
+<text x="477.2" y="115" xml:space="preserve"><tspan fill="#00ff00" font-weight="bold">Research </tspan><tspan fill="#00e600">EVOLVE-MEM, NeurIPS &#x27;25 (SEA)</tspan></text>
+<text x="477.2" y="132" xml:space="preserve"><tspan fill="#00ff00" font-weight="bold">Edge AI  </tspan><tspan fill="#00e600">audio-language models in &lt;8 GB VRAM</tspan></text>
+<text x="477.2" y="149" xml:space="preserve"><tspan fill="#00ff00" font-weight="bold">Systems  </tspan><tspan fill="#00e600">GraphRAG at 400k+ nodes, RTB under 2 ms</tspan></text>
+<text x="477.2" y="166" xml:space="preserve"><tspan fill="#00ff00" font-weight="bold">Wins     </tspan><tspan fill="#00e600">Techfest IITB x2, BuildWithDelhi &#x27;24</tspan></text>
+<text x="477.2" y="183" xml:space="preserve"><tspan fill="#00ff00" font-weight="bold">Hobby    </tspan><tspan fill="#00e600">scripts, TUIs, small tools</tspan></text>
+<rect x="477.2" y="206" width="18" height="14" fill="#003300"/>
+<rect x="495.2" y="206" width="18" height="14" fill="#006600"/>
+<rect x="513.2" y="206" width="18" height="14" fill="#009900"/>
+<rect x="531.2" y="206" width="18" height="14" fill="#00cc00"/>
+<rect x="549.2" y="206" width="18" height="14" fill="#00ff00"/>
+<rect x="567.2" y="206" width="18" height="14" fill="#66ff66"/>
+<rect x="585.2" y="206" width="18" height="14" fill="#99ff99"/>
+<rect x="603.2" y="206" width="18" height="14" fill="#ccffcc"/>
+</g>
+<text x="20" y="455" style="animation:type 0.42s steps(8) 2.68s both"><tspan fill="#00ff00">❯</tspan> <tspan fill="#00e600">whoami</tspan></text>
+<text x="20" y="472" xml:space="preserve" style="animation:show 0.25s ease-out 3.35s both"><tspan fill="#00ff00">ujjwal kakar</tspan><tspan fill="#007a00">  aka  </tspan><tspan fill="#00e600">rumblejack56</tspan></text>
+<text x="20" y="489" xml:space="preserve" style="animation:show 0.25s ease-out 3.53s both"><tspan fill="#00e600">builds agentic AI systems by day, terminal tools by night</tspan></text>
+<text x="20" y="523" style="animation:type 0.84s steps(14) 4.06s both"><tspan fill="#00ff00">❯</tspan> <tspan fill="#00e600">cat ~/.focus</tspan></text>
+<text x="20" y="540" xml:space="preserve" style="animation:show 0.25s ease-out 5.15s both"><tspan fill="#007a00">- </tspan><tspan fill="#00e600">build small tools that fix my own annoyances</tspan></text>
+<text x="20" y="557" xml:space="preserve" style="animation:show 0.25s ease-out 5.33s both"><tspan fill="#007a00">- </tspan><tspan fill="#00e600">terminal UIs over web UIs</tspan></text>
+<text x="20" y="574" xml:space="preserve" style="animation:show 0.25s ease-out 5.51s both"><tspan fill="#007a00">- </tspan><tspan fill="#00e600">agentic AI, memory systems, and the plumbing around LLMs</tspan></text>
+<text x="20" y="608" style="animation:type 0.91s steps(15) 6.04s both"><tspan fill="#00ff00">❯</tspan> <tspan fill="#00e600">ls ~/projects</tspan></text>
+<text x="20" y="625" xml:space="preserve" style="animation:show 0.25s ease-out 7.20s both"><tspan fill="#66ff66">scripts/  tuis/  skills/  evolve-mem/  decibel/  emogtn/  adwise/</tspan></text>
+<text x="20" y="659" style="animation:type 1.68s steps(26) 7.73s both"><tspan fill="#00ff00">❯</tspan> <tspan fill="#00e600">git log --oneline ~/wins</tspan></text>
+<text x="20" y="676" xml:space="preserve" style="animation:show 0.25s ease-out 9.66s both"><tspan fill="#99ff99">5e1a9c2 </tspan><tspan fill="#ccffcc">(HEAD) </tspan><tspan fill="#00e600">Grand Finalist, Smart India Hackathon 2025 (DRDO, MoD)</tspan></text>
+<text x="20" y="693" xml:space="preserve" style="animation:show 0.25s ease-out 9.84s both"><tspan fill="#99ff99">b7f03d1 </tspan><tspan fill="#00e600">1st Runner Up, Adobe Devcraft 2025</tspan></text>
+<text x="20" y="710" xml:space="preserve" style="animation:show 0.25s ease-out 10.02s both"><tspan fill="#99ff99">c94e6aa </tspan><tspan fill="#00e600">Winner, National Geo-AI Hackathon, Techfest &#x27;25 IITB</tspan></text>
+<text x="20" y="727" xml:space="preserve" style="animation:show 0.25s ease-out 10.20s both"><tspan fill="#99ff99">2d8b710 </tspan><tspan fill="#00e600">Winner, BuildWithDelhi &#x27;24 (AI track)</tspan></text>
+<text x="20" y="744" xml:space="preserve" style="animation:show 0.25s ease-out 10.38s both"><tspan fill="#99ff99">f1a5e38 </tspan><tspan fill="#00e600">Winner, TIH-IoT, Techfest &#x27;23 IITB</tspan></text>
+<g style="animation:show .01s linear 10.91s both"><text x="20" y="778"><tspan fill="#00ff00">❯</tspan> <tspan class="cur" fill="#00ff00">▌</tspan></text></g>
+</svg>
