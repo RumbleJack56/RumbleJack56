@@ -1,15 +1,18 @@
 <div align="center">
 
-# Ujjwal Kakar &nbsp;·&nbsp; `RumbleJack56`
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="banner">
 
-**tinkerer. scripts, TUIs, and things that started as "how hard could it be?"**
+<img src="https://octodex.github.com/images/codercat.jpg" width="140" alt="Codercat">
+
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=4BFDF2&center=true&vCenter=true&random=false&width=700&lines=Hi%2C+I'm+Ujjwal+Kakar+%F0%9F%91%8B;aka+RumbleJack56;a+tinkerer+with+a+terminal+open;scripts+%C2%B7+TUIs+%C2%B7+small+tools" alt="Typing SVG">
+  </a>
+</h1>
 
 ![DTU](https://img.shields.io/badge/DTU-CSE_'27-1f2937?style=flat-square)
 ![Linux](https://img.shields.io/badge/Fedora-Linux-51a2da?style=flat-square&logo=fedora&logoColor=white)
 ![zsh](https://img.shields.io/badge/shell-zsh-1f2937?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
 
 </div>
 
@@ -46,26 +49,63 @@ $ cat ~/.focus
 
 ## Where I've worked
 
-- **Adobe** · Product (SDE) Intern, 2026. A visual podcast engine for PDFs, plus an animated-infographics renderer built on Manim.
-- **Onlygood** · AI Intern, 2025–26. A GraphRAG backend for ESG compliance serving 20+ B2B clients.
-- **Matiks** · AI Engineering Intern, 2025. Question generation and AI-teacher feedback for 10k+ daily users.
+<table>
+  <tr>
+    <td width="140" align="center"><img src="imgs/adobe.png" width="110" alt="Adobe"></td>
+    <td>Product (SDE) Intern, 2026. A visual podcast engine for PDFs, plus an animated-infographics renderer built on Manim.</td>
+  </tr>
+  <!-- TODO: add logo files to imgs/ and uncomment.
+  <tr>
+    <td width="140" align="center"><img src="imgs/onlygood.png" width="110" alt="Onlygood"></td>
+    <td>AI Intern, 2025–26. A GraphRAG backend for ESG compliance serving 20+ B2B clients.</td>
+  </tr>
+  <tr>
+    <td width="140" align="center"><img src="imgs/matiks.png" width="110" alt="Matiks"></td>
+    <td>AI Engineering Intern, 2025. Question generation and AI-teacher feedback for 10k+ daily users.</td>
+  </tr>
+  -->
+</table>
 
 Also: Head of AI at AIMS-DTU, Secretary (Quantum Computing) at ACM-DTU. Winner at Techfest IIT Bombay (twice), BuildWithDelhi '24, and Smart India Hackathon 2025 grand finalist.
 
 ## Toolbox
 
 <p>
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white">
-<img alt="Go" src="https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=go&logoColor=white">
-<img alt="C++" src="https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=cplusplus&logoColor=white">
-<img alt="Bash" src="https://img.shields.io/badge/-Bash-4eaa25?style=flat-square&logo=gnubash&logoColor=white">
-<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569b?style=flat-square&logo=flutter&logoColor=white">
-<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white">
-<img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1c3c3c?style=flat-square&logo=langchain&logoColor=white">
-<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-<img alt="React" src="https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61dafb">
-<img alt="GCP" src="https://img.shields.io/badge/-GCP-4285f4?style=flat-square&logo=googlecloud&logoColor=white">
-<img alt="Ansible" src="https://img.shields.io/badge/-Ansible-ee0000?style=flat-square&logo=ansible&logoColor=white">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="GraphQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" alt="Keras" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="FastAPI" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="Ansible" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </p>
 
 <div align="center">
@@ -75,11 +115,3 @@ Also: Head of AI at AIMS-DTU, Secretary (Quantum Computing) at ACM-DTU. Winner a
   <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/RumbleJack56/RumbleJack56/output/github-snake.svg">
 </picture>
 </div>
-
-## Find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ujjwalkakar2005@gmail.com)
-
-<!-- TODO: put your real LinkedIn and LeetCode profile URLs in the two links above. -->
